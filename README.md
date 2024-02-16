@@ -20,6 +20,8 @@ This repository contains all source codes of RCC-Finder, a heuristc code reviewe
   
 Our dataset is accessibe through Zenodo link bellow:
 
+[Dataset](https://zenodo.org/records/10669853?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZjM2I3ZGQyLTkwMWEtNGE5Ny05N2M4LThjNmFiMzEzZWMwZiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzMxMDQzN2VlMDBkMjkwYWQxNDYxOTJlMDkxZTI2NiJ9.1iBnDz1Ac_94s8gamLULyl4nFji03fxGNQUFKJqojmrXaNHCdFHUy37BuP4d4bkiQGkhvUxcUDQK7Dn-RxkR3g)
+
 The repository consists of two folders: 
 
   1) dataset which contains the primary dataset of article [] we used companion with additional data we fetched using GitHub rest API. 
