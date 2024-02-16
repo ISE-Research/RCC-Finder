@@ -1,5 +1,9 @@
 # RCC-Finder
-This repository contains all source codes of RCC-Finder, a heuristc code reviewer recommender system. codes folder consists of 7 jupyter notebook. We try to chose each notebook name in a way help to understand its function. here is  brief explanation of source code files:
+## Description
+This repository contains all source codes of RCC-Finder, a heuristc code reviewer recommender system. codes folder consists of 7 jupyter notebook. We try to chose each notebook name in a way help to understand its function. 
+
+## structure
+Here is  brief explanation of source code files:
   
   1) WhDo reimplementation: contains reinplementation of WhoDo, the recommender system with which we compare our proposed approach.
   
@@ -18,6 +22,8 @@ This repository contains all source codes of RCC-Finder, a heuristc code reviewe
   
   7) calculate activity score using 5 different methods: contains of five different methods we tried to calculate activity score through
   
+## Dataset
+
 Our dataset is accessibe through Zenodo link bellow:
 
 [Dataset](https://zenodo.org/records/10669853?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZjM2I3ZGQyLTkwMWEtNGE5Ny05N2M4LThjNmFiMzEzZWMwZiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzMxMDQzN2VlMDBkMjkwYWQxNDYxOTJlMDkxZTI2NiJ9.1iBnDz1Ac_94s8gamLULyl4nFji03fxGNQUFKJqojmrXaNHCdFHUy37BuP4d4bkiQGkhvUxcUDQK7Dn-RxkR3g)
