@@ -25,8 +25,8 @@ Here is a brief explanation of source code files:
 Our dataset is accessible [here](https://zenodo.org/records/10669853?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZjM2I3ZGQyLTkwMWEtNGE5Ny05N2M4LThjNmFiMzEzZWMwZiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzMxMDQzN2VlMDBkMjkwYWQxNDYxOTJlMDkxZTI2NiJ9.1iBnDz1Ac_94s8gamLULyl4nFji03fxGNQUFKJqojmrXaNHCdFHUy37BuP4d4bkiQGkhvUxcUDQK7Dn-RxkR3g)
 
 The repository consists of two folders: 
-- dataset which contains the primary dataset of article [] we used companion with additional data we fetched using GitHub rest API. 
+- Dataset: contains the primary dataset of article [] we used companion with additional data we fetched using GitHub rest API. 
   
-- features: contains sheets of data that represent different combinations of original dataset fields we created to facilitate score calculations.
+- Features: contains sheets of data that represent different combinations of original dataset fields we created to facilitate score calculations.
   
 In code files, we used files in the dataset and features directories content referring by their address. We assumed dataset and features folders are in the same folder as jupyter notebooks. Also, our codes make some new files in a new directory named results beside notebooks.
