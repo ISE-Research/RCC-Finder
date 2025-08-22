@@ -24,8 +24,26 @@ Here is a brief explanation of source code files:
 Our dataset is accessible [here](https://zenodo.org/records/10669853?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZjM2I3ZGQyLTkwMWEtNGE5Ny05N2M4LThjNmFiMzEzZWMwZiIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzMxMDQzN2VlMDBkMjkwYWQxNDYxOTJlMDkxZTI2NiJ9.1iBnDz1Ac_94s8gamLULyl4nFji03fxGNQUFKJqojmrXaNHCdFHUy37BuP4d4bkiQGkhvUxcUDQK7Dn-RxkR3g)
 
 The repository consists of two folders: 
-- Dataset: Contains the primary dataset of article [] we used companion with additional data we fetched using GitHub rest API. 
+- Dataset: Contains the primary dataset we used together with additional data we fetched using GitHub rest API. 
   
 - Features: Contains sheets of data that represent different combinations of original dataset fields we created to facilitate score calculations.
   
 In code files, we used files in the dataset and features directories content referring by their address. We assumed dataset and features folders are in the same folder as jupyter notebooks. Also, our codes make some new files in a new directory named results beside notebooks.
+
+## Citation
+
+Access the paper from: <a href="https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-fc9fb4c7-9b51-460b-bc52-f65a9212daa2" target="_blank">here</a>.
+
+```python
+@article{Moosareza_Heydarnoori_2024,
+  title={Automated Code Reviewer Recommendation for Pull Requests},
+  author={Moosareza, Mina-Sadat and Heydarnoori, Abbas},
+  volume={18},
+  ISSN={1897-7979},
+  number={1},
+  journal={e-Informatica Software Engineering Journal},
+  year={2024},
+  pages={240108}
+}
+
+```
